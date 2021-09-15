@@ -1,7 +1,3 @@
-<div align="center">  
-<img src=https://github.com/Zhu-Zhihan/Zhu-Zhihan.github.io/blob/4b84b4f024295e087541c9e2a37d60c1b06f3fc2/1624119694383.jpeg width=60%/>  
-</div>
-
 ## Zhu-Zhihan
 Research Assistant  
 School of Mathematics, Beihang University, P.R. China  
