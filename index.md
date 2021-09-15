@@ -4,13 +4,13 @@ School of Mathematics, Beihang University, P.R. China
 Phone: +86 15313008351 | Email: zhuzhihan@buaa.edu.cn
 
 ### Education
-2017.9-2021.6&emspB.S. in Mathematics, Beihang University  
+2017.9-2021.6&emsp;B.S. in Mathematics, Beihang University  
 - GPA: 3.706/4
 - Honour bachelor degree
 - Major courses: Mathematical Analysis I (99/100), Mathematical Analysis II (93/100), Mathematical Analysis III (94/100), Principles of Mathematical Analysis I (97/100), Principles of Mathematical Analysis II (98/100), Advanced Algebra I (90/100), Advanced Algebra II (93/100), Advanced Algebra III (100/100), Number Theory (99/100),  Abstract Algebra I (97/100), Abstract Algebra II (98/100), Real Analysis (90/100), Partial Differential Equations (90/100), Topology (93/100), Differential Geometry (90/100), Mathematical Statistics (90/100), Stochastics Process (97/100), Python (96/100)
 
 ### Work Experience
-2021.7-2022.6(expected)&emspResearch Assistant in School of Mathematics, Beihang University  
+2021.7-2022.6(expected)&emsp;Research Assistant in School of Mathematics, Beihang University  
 - Supervisor: Prof. Yong Xia
 - Research on HBF high-precision channel reconstruction. At present, there is a preliminary technical route. It is planned to use regularized least squares model and manifold optimization, robust optimization and other algorithms for program design
 - The expected goal is that the error between the reconstructed channel and the real channel is less than -20dB, and the complexity of the algorithm is no more than an order of magnitude higher than the current channel estimation algorithm
