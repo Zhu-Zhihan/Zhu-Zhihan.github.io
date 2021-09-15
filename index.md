@@ -69,5 +69,5 @@ Haidian District Volunteer Team in Beijing, One Star Volunteer in Haidian Distri
 - HBF high-precision channel reconstruction
 
 ## Skills
-- Computer skills: Python/C/Maple language, certain knowledge about numerical analysis and data structure
+- Computer skills: Python/C/Maple language; Certain knowledge about numerical analysis and data structure
 - Language: IELTS 6.5
