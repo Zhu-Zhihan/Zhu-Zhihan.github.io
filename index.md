@@ -1,6 +1,5 @@
 ### Zhu-Zhihan 
-School of Mathematics, Beihang University, P.R. China 
-
+School of Mathematics, Beihang University, P.R. China  
 phone: +86 15313008351 | email: zhuzhihan@buaa.edu.cn
 
 ### Education
