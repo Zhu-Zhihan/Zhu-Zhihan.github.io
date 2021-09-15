@@ -1,7 +1,8 @@
 ## Zhu-Zhihan
-Research Assistant  
+Research Assistant   
 School of Mathematics, Beihang University, P.R. China  
 Phone: +86 15313008351 | Email: zhuzhihan@buaa.edu.cn
+![Alt text](https://github.com/Zhu-Zhihan/Zhu-Zhihan.github.io/blob/main/1624119694383.jpeg)
 
 ## Education
 2017.9-2021.6&emsp;B.S. in Mathematics, Beihang University  
