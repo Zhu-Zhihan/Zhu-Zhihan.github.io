@@ -4,10 +4,23 @@ School of Mathematics, Beihang University, P.R. China
 Phone: +86 15313008351 | Email: zhuzhihan@buaa.edu.cn
 
 ### Education
-2017,9-2021,6  B.S. in Mathematics, Beihang University  
+2017.9-2021.6  B.S. in Mathematics, Beihang University  
+- GPA: 3.706/4
+- Honour bachelor degree
+- Major courses: Mathematical Analysis Ⅰ (99/100), Mathematical Analysis Ⅱ (93/100), Mathematical Analysis Ⅲ (94/100), Principles of Mathematical Analysis Ⅰ (97/100), Principles of Mathematical Analysis Ⅱ (98/100), Advanced Algebra Ⅰ (90/100), Advanced Algebra Ⅱ (93/100), Advanced Algebra Ⅲ (100/100), Number Theory(99/100),  Abstract Algebra Ⅰ (97/100), Abstract Algebra Ⅱ (98/100), Real Analysis (90/100), Partial Differential Equations(90/100), Topology (93/100), Differential Geometry (90/100), Mathematical Statistics (90/100), Stochastics Process (97/100), Python(96/100)
 
 ### Work Experience
-2021,7-2022,6(expected)  Research Assistant in School of Mathematics, Beihang University  Supervisor: Prof. Yong Xia
+2021.7-2022.6(expected)  Research Assistant in School of Mathematics, Beihang University  Supervisor: Prof. Yong Xia
+
+### Projects
+- Super-resolution parameter estimation and completion of 5.5G massive MIMO communication system, National Science and Technology Key R&D Program "Mathematics and Applied Research" Key Special Project, 2022/01-2025/12(expected), 12 million, participant  
+- Non-convex optimization, National Natural Science Foundation of China Outstanding Youth Science Fund Project, 2019/01-2021/12, 1.3 million, participant  
+
+### Research Interests
+- Statistics for data science  
+- Non-convex optimization  
+- Algorithms for massive MIMO design
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
