@@ -1,5 +1,6 @@
+<img src=https://github.com/Zhu-Zhihan/Zhu-Zhihan.github.io/blob/main/1624119694383.jpeg width=60%/>
 ## Zhu-Zhihan
-Research Assistant <img src=https://github.com/Zhu-Zhihan/Zhu-Zhihan.github.io/blob/main/1624119694383.jpeg width=40%#pic_right/>
+Research Assistant
 School of Mathematics, Beihang University, P.R. China  
 Phone: +86 15313008351 | Email: zhuzhihan@buaa.edu.cn
 
