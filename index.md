@@ -1,4 +1,6 @@
+<div align="center">
 <img src=https://github.com/Zhu-Zhihan/Zhu-Zhihan.github.io/blob/main/1624119694383.jpeg width=60%/>
+</div>
 
 ## Zhu-Zhihan
 Research Assistant  
