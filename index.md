@@ -1,13 +1,13 @@
-### Zhu-Zhihan 
+### Zhu-Zhihan
+Research Assistant  
 School of Mathematics, Beihang University, P.R. China  
-phone: +86 15313008351 | email: zhuzhihan@buaa.edu.cn
+Phone: +86 15313008351 | Email: zhuzhihan@buaa.edu.cn
 
 ### Education
-You can use the [editor on GitHub](https://github.com/Zhu-Zhihan/Zhu-Zhihan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+2017,9-2021,6  B.S. in Mathematics, Beihang University  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Work Experience
+2021,7-2022,6(expected)  Research Assistant in School of Mathematics, Beihang University  Supervisor: Prof. Yong Xia
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
