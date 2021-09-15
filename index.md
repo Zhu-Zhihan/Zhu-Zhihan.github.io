@@ -1,5 +1,5 @@
-<div align="center">
-<img src="https://github.com/Zhu-Zhihan/Zhu-Zhihan.github.io/blob/main/1624119694383.jpeg?raw=true" width=60%/>
+<div align="center">  
+<img src=https://github.com/Zhu-Zhihan/Zhu-Zhihan.github.io/blob/main/1624119694383.jpeg?raw=true width=60%/>  
 </div>
 
 ## Zhu-Zhihan
