@@ -7,7 +7,7 @@ Phone: +86 15313008351 | Email: zhuzhihan@buaa.edu.cn
 2017.9-2021.6&emsp;B.S. in Mathematics, Beihang University  
 - GPA: 3.706/4
 - Honour bachelor degree
-- Major courses: Mathematical Analysis I (99/100), Mathematical Analysis II (93/100), Mathematical Analysis III (94/100), Principles of Mathematical Analysis I (97/100), Principles of Mathematical Analysis II (98/100), Advanced Algebra I (90/100), Advanced Algebra II (93/100), Advanced Algebra III (100/100), Number Theory (99/100),  Abstract Algebra I (97/100), Abstract Algebra II (98/100), Real Analysis (90/100), Partial Differential Equations (90/100), Topology (93/100), Differential Geometry (90/100), Mathematical Statistics (90/100), Stochastics Process (97/100), Python (96/100)
+- Major courses: Mathematical Analysis Ⅰ (99/100), Mathematical Analysis Ⅱ (93/100), Mathematical Analysis Ⅲ (94/100), Principles of Mathematical Analysis Ⅰ (97/100), Principles of Mathematical Analysis Ⅱ (98/100), Advanced Algebra Ⅰ (90/100), Advanced Algebra Ⅱ (93/100), Advanced Algebra Ⅲ (100/100), Number Theory (99/100),  Abstract Algebra Ⅰ (97/100), Abstract Algebra Ⅱ (98/100), Real Analysis (90/100), Partial Differential Equations (90/100), Topology (93/100), Differential Geometry (90/100), Mathematical Statistics (90/100), Stochastics Process (97/100), Python (96/100)
 
 ### Work Experience
 2021.7-2022.6(expected)&emsp;Research Assistant in School of Mathematics, Beihang University  
