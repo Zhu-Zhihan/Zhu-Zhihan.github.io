@@ -1,7 +1,7 @@
 # Zhu-Zhihan 
 School of Mathematics, Beihang University, P.R. China
-phone: +86 15313008351 | email: zhuzhihan@buaa.edu.cn
 
+phone: +86 15313008351 | email: zhuzhihan@buaa.edu.cn
 ### Education
 You can use the [editor on GitHub](https://github.com/Zhu-Zhihan/Zhu-Zhihan.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
