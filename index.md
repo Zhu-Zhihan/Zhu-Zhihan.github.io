@@ -6,7 +6,7 @@ Phone: +86 15313008351 | Email: zhuzhihan@buaa.edu.cn
 ## Education
 2017.9-2021.6&emsp;B.S. in Mathematics, Beihang University  
 - GPA: 3.706/4
-- Honour bachelor degree
+- Honor bachelor degree
 - Major courses: Mathematical Analysis Ⅰ (99/100), Mathematical Analysis Ⅱ (93/100), Mathematical Analysis Ⅲ (94/100), Principles of Mathematical Analysis Ⅰ (97/100), Principles of Mathematical Analysis Ⅱ (98/100), Advanced Algebra Ⅰ (90/100), Advanced Algebra Ⅱ (93/100), Advanced Algebra Ⅲ (100/100), Number Theory (99/100),  Abstract Algebra Ⅰ (97/100), Abstract Algebra Ⅱ (98/100), Real Analysis (90/100), Partial Differential Equations (90/100), Topology (93/100), Differential Geometry (90/100), Mathematical Statistics (90/100), Stochastics Process (97/100), Python (96/100)
 
 ## Work Experience
@@ -16,8 +16,8 @@ Phone: +86 15313008351 | Email: zhuzhihan@buaa.edu.cn
 - The expected goal is that the error between the reconstructed channel and the real channel is less than -20dB, and the complexity of the algorithm is no more than an order of magnitude higher than the current channel estimation algorithm
 
 ## Projects
-- Super-resolution parameter estimation and completion of 5.5G massive MIMO communication system, National Science and Technology Key R&D Program "Mathematics and Applied Research" Key Special Project, 2022/01-2025/12(expected), 12 million, participant  
-- Non-convex optimization, National Natural Science Foundation of China Outstanding Youth Science Fund Project, 2019/01-2021/12, 1.3 million, participant  
+- Super-resolution parameter estimation and completion of 5.5G massive MIMO communication system, National Science and Technology Key R&D Program, "Mathematics and Applied Research" Key Special Project, 2022/01-2025/12(expected), 12 million yuan, participant  
+- Non-convex optimization, National Natural Science Foundation of China Outstanding Youth Science Fund Project, 2019/01-2021/12, 1.3 million yuan, participant  
 
 ## Research Experience
 Computational Research on a New Type of Grӧbner Bases, Project Team Leader, 2018.3-2021.5  
@@ -27,7 +27,7 @@ Computational Research on a New Type of Grӧbner Bases, Project Team Leader, 201
 - Organized a seminar on computational algebraic geometry within the college, up to 32 hours in the semester
 - Verified a new mathematical definition, which is the Grӧbner bases on the principal ideal quotient rings, and discovered its excellent properties
 - Utilized pseudo-divisions over principal ideal rings, instead of divisions over fields, to improve the classic Buchberger algorithm, which optimized the efficiency of the algorithm and the complexity of the intermediate expression by at least an order of magnitude
-- Implemented a new algorithm in engineering using Maple language, and wrote a graduation thesis  
+- Implemented the new algorithm in engineering using Maple language, and wrote a graduation thesis  
 
 Anti- CAPTCHA Malicious Identification Method Based on Adversarial Learning, Project Team Member, 2018.12-2019.4
 - School of Computer Science and Engineering, Beihang University
