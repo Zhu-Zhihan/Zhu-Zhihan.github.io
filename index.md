@@ -17,7 +17,7 @@ Phone: +86 15313008351 | Email: zhuzhihan@buaa.edu.cn
 
 ## Projects
 - Super-resolution parameter estimation and completion of 5.5G massive MIMO communication system, National Science and Technology Key R&D Program, "Mathematics and Applied Research" Key Special Project, 2022/01-2025/12(expected), 12 million yuan, participant  
-- Non-convex optimization, National Natural Science Foundation of China Outstanding Youth Science Fund Project, 2019/01-2021/12, 1.3 million yuan, participant  
+- Non-convex optimization, National Natural Science Foundation of China, Outstanding Youth Science Fund Project, 2019/01-2021/12, 1.3 million yuan, participant  
 
 ## Research Experience
 Computational Research on a New Type of Grӧbner Bases, Project Team Leader, 2018.3-2021.5  
@@ -38,17 +38,17 @@ Anti- CAPTCHA Malicious Identification Method Based on Adversarial Learning, Pro
 - Won the third prize of the 29th "Feng Ru Cup" Science and Technology Competition of Beihang University
 
 ## Awards & Honours
-- 2021, Outstanding Graduate of Beihang University (top 10% of the school, awarded to those with outstanding performance in study, ideology and morality)
+- 2021, Outstanding Graduate from Beihang University (top 10% of the school, awarded to those with outstanding performance in study, ideology and morality)
 - 2020, Honorable Mention in 2020 Mathematical Contest in Modeling (MCM)
-- 2020, First-class scholarship for academic competition (awarded to those with outstanding performance in academic competitions)
+- 2020, First-class scholarship for academic competition of Beihang University (awarded to those with outstanding performance in academic competitions)
 - 2019, Outstanding Student of Beihang University (top 3% of the school, awarded to those with outstanding performance in study)
-- 2019, Three Good Students at Zhizhen College (top 8% of the college, awarded to those with outstanding performance in study, ideology and morality)
+- 2019, Three Good Students at Zhizhen College of Beihang University (top 8% of the college, awarded to those with outstanding performance in study, ideology and morality)
 - 2019, Second Prize of Beijing Division in 2019 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
 - 2019, Third Prize in 2019 Mathematics Competition of Chinese College Students (Mathematics class)
 - 2019, Third Prize in 2019 Mathematics Competition of Beijing University Students (Mathematics class)
 - 2019, Third Prize of the 9th Mathorcup College Mathematical Modeling Challenge
-- 2019, First-class scholarship for academic competition (awarded to those with outstanding performance in academic competitions)
-- 2018, First-class Scholarship for Study Excellence (top 5% of the school, awarded to those with outstanding performance in study)
+- 2019, First-class scholarship for academic competition of Beihang University (awarded to those with outstanding performance in academic competitions)
+- 2018, First-class Scholarship for Study Excellence of Beihang University (top 5% of the school, awarded to those with outstanding performance in study)
 - 2018, Second Prize of Beijing Division in 2018 Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM)
 - 2018, Third Prize in 2018 Mathematics Competition of Chinese College Students (Mathematics class)
 - 2018, Third Prize in 2018 Mathematics Competition of Beijing University Students (Mathematics class)
